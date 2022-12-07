@@ -1,0 +1,13 @@
+project/
+target/
+.bloop
+.bsp
+.metals
+project/metals.sbt
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+.DS_Store
+input/reviews/yelp_academic_dataset_review.json
