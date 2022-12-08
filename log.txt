@@ -1,0 +1,6 @@
+Date | Name | Task | Time Spent
+
+11-10-2022 | Team | Yelp Dataset Selection - Review Subset | 1hr
+11-22-2022 | Nicholas | Initial Project Setup & Input Parsing | 2hrs
+11-24-2022 | Nicholas | Initial TF-IDF Computation Test |
+11-25-2022 | Nicholas | TF-IDF Vectorization using Spark mllib | 3hrs
