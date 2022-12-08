@@ -322,7 +322,7 @@ object App {
     val reviewsByRatingOutputPath = "input/reviewsByRating"
     val similaritiesOutputPath = "input/similarities"
     // PARAMETERS
-    val numDocsPerRating = sc.broadcast(1200) // Number of documents per rating to consider (equivalent for balanced dataset)
+    val numDocsPerRating = sc.broadcast(500) // Number of documents per rating to consider (equivalent for balanced dataset)
     val numWordsInVector = sc.broadcast(1000) // Number of words to consider throughout corpus for a TF-IDF vector
     val stopWords = sc.broadcast(immutable.HashSet() ++ sc.textFile(stopWordsInputPath) // Words to not consider for calculating TF-IDF
       .map(x => (x, ""))
