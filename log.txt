@@ -1,6 +1,15 @@
 Date | Name | Task | Time Spent
 
 11-10-2022 | Team | Yelp Dataset Selection - Review Subset | 1hr
+11-20-2022 | Team | In Depth Exploration of Project options | 2hr
 11-22-2022 | Nicholas | Initial Project Setup & Input Parsing | 2hrs
-11-24-2022 | Nicholas | Initial TF-IDF Computation Test |
+11-23-2022 | Christian + Kheva | Attempted to implement authorship | 3hrs
+11-24-2022 | Nicholas | Initial TF-IDF Computation Test |2hrs
+11-24-2022 | Christian |Created methods to parse and select data samples | 3hrs
+11-24-2022 | Kheva |Created KNN classification | 3hrs
 11-25-2022 | Nicholas | TF-IDF Vectorization using Spark mllib | 3hrs
+12-04-2022 | Kheva | Generated results and tweaked parameters | 2hr
+12-04-2022 | Kheva | Configured the project to run on the Hadoop cluster and fixed issues with distributed file handling  | 3hr
+12-04-2022 | Christian | Created visulizations and final data results | 2hr
+12-07-2022 | TEAM | Work on report | 2hr
+12-07-2022 | TEAM | Work on slides | 2hr
